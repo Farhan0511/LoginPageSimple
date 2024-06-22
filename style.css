@@ -7,6 +7,10 @@
     font-family: 'poppins' sans-serif;
 }
 
+li{
+    list-style: none;
+}
+
 body{
     display: flex;
     justify-content: center;
@@ -115,4 +119,10 @@ body{
 p{
     display: flex;
     color: #0082bc;
+}
+
+.waktu{
+    display: flex;
+    gap: 144px;   
+    align-items: center;
 }
